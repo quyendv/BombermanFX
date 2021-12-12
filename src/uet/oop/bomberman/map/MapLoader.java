@@ -2,6 +2,7 @@ package uet.oop.bomberman.map;
 
 import uet.oop.bomberman.BombermanGame;
 import uet.oop.bomberman.entities.Entity;
+import uet.oop.bomberman.entities.LayeredEntity;
 import uet.oop.bomberman.entities.movable.Bomber;
 import uet.oop.bomberman.entities.movable.enemy.Balloon;
 import uet.oop.bomberman.entities.movable.enemy.Kondoria;
