@@ -108,7 +108,7 @@ public class BombermanGame extends Application {
         nextLevel.playAudio();
 
         // create next map
-        mapLoader.setLevel(Math.min(mapLoader.getLevel() + 1, 5)); // giới hạn lv5
+        mapLoader.setLevel(Math.min(mapLoader.getLevel() + 1, 3)); // giới hạn lv3
         createMap();
     }
 
